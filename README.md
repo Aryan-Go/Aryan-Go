@@ -1,9 +1,9 @@
-# <img src="assets/karma.gif" width="150" height="60" /> `Says Hi !`
+# <img src="(https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Flash-Movie.gif?fit=500%2C210&ssl=1)" width="150" height="60" /> `Says Hi !`
 
 *Developer* in **SDSLabs**<br>
 Undergrad *Student* in **IIT Roorkee**<br>
 Learning *new* stuff **every day**<br>
-Part time [*Poet...*](https://yourkavi.wordpress.com)
+Part time *Food lover...*
 
 
 # Judge Me (^_~)
