@@ -1,38 +1,32 @@
-# Hi there 👋, I’m Aryan-Go  
+# <img src="assets/karma.gif" width="150" height="60" /> `Says Hi !`
 
-<br/>
+*Developer* in **SDSLabs**<br>
+Undergrad *Student* in **IIT Roorkee**<br>
+Learning *new* stuff **every day**<br>
+Part time [*Poet...*](https://yourkavi.wordpress.com)
 
-## 🚀 About Me  
-I’m a passionate developer with interest in security, web dev, and robotics. I love building projects that solve real-world problems and exploring new technologies.  
 
-<br/>
+# Judge Me (^_~)
+![GitHub Snake Dark](https://raw.githubusercontent.com/adi-QTPi/adi-QTPi/output/github-contribution-grid-snake-dark.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-QTPi&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=adi-QTPi&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adi-QTPi&theme=solarized-dark&hide_border=true)<br/>
+# Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-## 🛠️ Tech Stack & Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,git,linux,arduino)](https://github.com/Aryan-Go)  
+## Reach Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi.iitr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:captainav0608@gmail.com) 
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adi-QTPi&theme=solarized-dark&no-frame=true&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats (with live graphs)  
-[![Aryan-Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Go&show_icons=true&theme=radical)](https://github.com/Aryan-Go)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Go&layout=compact&theme=radical)](https://github.com/Aryan-Go)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adi-QTPi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=adi-QTPi&icon=3&color=12)](https://visitcount.itsvg.in)
 
-## 🌟 Badges & Socials  
-[![GitHub followers](https://img.shields.io/github/followers/Aryan-Go?label=Follow&style=social)](https://github.com/Aryan-Go)  
-[![GitHub stars](https://img.shields.io/github/stars/Aryan-Go?style=social)](https://github.com/Aryan-Go?tab=stars)  
-
-<!-- Add more badges as needed via Shields.io or custom badges -->  
-
-<br/>
-
-## ✨ Welcome Animation / Typing Effect  
-<p align="center">  
-  <img alt="typing animation" src="https://raw.githubusercontent.com/Aryan-Go/Aryan-Go/main/typing-demo.gif" width="600" />  
-</p>  
-
-> You can replace the above GIF with your own — e.g. a typing animation showing your intro. Upload the GIF to your repo (or use external link), then embed with Markdown:  
-
-```markdown
-![typing demo](./typing-demo.gif)   <!-- or use full URL -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
